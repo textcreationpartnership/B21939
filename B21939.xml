@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament exhorting to the duty of repentence as the onely remedy for these present calamities with an earnest confession and deepe humiliation for all particular and nationall sins, that so at length we may obtaine a firme and happy peace both with God and man, that glory may dwell in our land, and the prosperity of the Godspell, with all the priviledges accompanying it, may crowne this nation unto all succeeding ages : the two crying sins of idolatry and blood-shed cease, and a thorough reformation as God may be pleased graciously to accept : also, an Ordinance of the Lords and Commons for the strict observation of the monthely fast : with his Majesties proclamation for continuance of the abovesaid fast during the troubles of the kingdome of Ireland worthy of observation.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21939</idno><idno type="EEBO-CITATION">11995358</idno>
+  <idno type="VID">196526</idno>
+  <idno type="EEBO-PROQUEST">2240921044</idno>
+  
+            <idno type="STC">Wing E1408</idno>
+            <idno type="OCLC">11995358</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196526)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 233:E30, no 18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament exhorting to the duty of repentence as the onely remedy for these present calamities with an earnest confession and deepe humiliation for all particular and nationall sins, that so at length we may obtaine a firme and happy peace both with God and man, that glory may dwell in our land, and the prosperity of the Godspell, with all the priviledges accompanying it, may crowne this nation unto all succeeding ages : the two crying sins of idolatry and blood-shed cease, and a thorough reformation as God may be pleased graciously to accept : also, an Ordinance of the Lords and Commons for the strict observation of the monthely fast : with his Majesties proclamation for continuance of the abovesaid fast during the troubles of the kingdome of Ireland worthy of observation.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196526:1"/>
+            <p> A DECLARATION OF THE LORDS and COMMONS Assembled in PARLIAMENT: EXHORTING To the duty of Repentance (as the onely remedy for these present Calamities) with an earnest confession and deepe humiliation for all particular and Na<g ref="char:EOLhyphen"/>tionall Sins, that so at length we may obtaine a firme and happy Peace both with God and Man▪ that glory may dwell in our Land; and the prosperity of the Gospell, with all the privi<g ref="char:EOLhyphen"/>ledges accompanying it, may crowne this Nation unto all succeeding Ages.</p>
+            <p>The two crying Sins of Idolatry and Blood-shed cease, and a thorough Reformation, as God may be pleased graciously to accept.</p>
+            <p>Also, an Ordinance of the Lords and Commons for the strict observation of the monethly FAST.</p>
+            <p>With his Majesties Proclamation for continuance of the abovesaid Fast, during the Troubles of the Kingdome of <hi>Ireland,</hi> worthy of observation.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>ORdered by the Lords and Commons in Parliament, that this Declaration and Ordinance be Printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Browne Cler. Parl.</signed>
+                           <signed>Hen. Elsinge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Jan. 30. London Printed for <hi>T. S.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="2" facs="tcp:196526:2"/>
+            <head>
+               <hi>An Ordinance of the Lords and Commons assembled in Parliament, Exhorting all his Majesties good Subjects in the Kingdome of <hi>England</hi> and Dominion of <hi>VVales,</hi> to the duty of Repentance (as the onely remedy for their present Calamities) with an earnest Con<g ref="char:EOLhyphen"/>fession, and deepe Humiliation for all particular and Nationall Sins, that so at length we may obtaine a firme and happy Peace, both with God and Man.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat flourishing Kingdomes have beene ruin'd by Impenitent going on in a course of <hi>Sinning,</hi> the sacred Story doth plainly tell us; and how neere to such a Ruine our sinfull Nation now is, the pre<g ref="char:EOLhyphen"/>sent lamentable Face of it doth too apparently shew. And though we should feele the heavy stroakes of God, yet seven times more, it is our duty to accept the punishment of our Iniquity, and to say, <hi>Righteous art thou O Lord, and just are thy judgements.</hi>
+            </p>
+            <p>Yet because the Lord who is just, is also Mercifull, and in his infinite Mercy hath left the excellent and successefull re<g ref="char:EOLhyphen"/>medy of Repentance to Nations brought neere to the Gates of Destruction and despaire; O let not <hi>England</hi> be negligent in the application of it. Humble Addresses of a penitent People to a Mercifull God have prevailed with Him. They prevailed for <hi>Nineveh</hi> when the sentence seemed to be gone out against her, and may also prevaile for <hi>England.</hi>
+            </p>
+            <p>It is therefore thought most necessary by the Lords and Commons in Parliament, That all his Majesties Subjects in this Kingdome of <hi>England,</hi> be excited and stirred up, speedi<g ref="char:EOLhyphen"/>ly to lay hold upon this onely and unfailing remedy of Repen<g ref="char:EOLhyphen"/>tance; freely acknowledging, and heartily bewailing even with deepest humiliation, godly sorrow, and detestation, secretly &amp; in Families, but especially publikely in Congregations, both their owne personall sins, and chiefly those sins that are and have beene the sins of this Nation: A confession of Nationall sins being most agreeable to the Nationall Iudgements, under which the Land Groanes, and most likely to be effectuall for the removing of them.</p>
+            <pb n="3" facs="tcp:196526:2"/>
+            <p> Neither ought this confession to be sleight or light, when there is so heavy a weight of sins, infinite in number, and hain<g ref="char:EOLhyphen"/>ous in nature, that lyes upon this Nation. Such are the high Contempt of Gods holy Ordinances, and of Holinesse it selfe, Grosse and affected Ignorance, under the glorious light of the Gospell cleerly shining among us, unfruitfulnesse under the precious meanes of Grace, Ingratitude for Mercies, Incorri<g ref="char:EOLhyphen"/>giblenesse under Iudgements, multitudes of Oathes, &amp; Blas<g ref="char:EOLhyphen"/>phemies, wicked Prophanations of the Lords Day, by Sports and Gamings, formerly encouraged even by Authority, All sorts of uncleannesse, Luxury, and Excesse in Eating &amp; Drink<g ref="char:EOLhyphen"/>ing, Vanity, Pride, and Prodigality in Apparell, Envy, Con<g ref="char:EOLhyphen"/>tention, and unnaturall Divisions, Oppression, Fraud, and Violence. From diverse of which sins, and many others, not one person throughout the whole Nation, can say that he is wholly free, but all must confesse that they have contributed towards the Great Stock of Nationall Sins; and so Have increased the Treasure of wrath, against these dayes of wrath; and therefore, since according to the Language of the Holy Ghost, we are a sinfull Nation, a People laden with Iniquity, and that from the soale of the Foot, to the Head, there is sound<g ref="char:EOLhyphen"/>nesse in Vs, we may justly expect the desolations that are de<g ref="char:EOLhyphen"/>nounced against so great and generall a corruption.</p>
+            <p>And as it is our duty to humble our selves, and to give glo<g ref="char:EOLhyphen"/>ry to God the searcher of all Hearts, by confessing all sins: so ought we to be affected and humbled with deepest sence of sor<g ref="char:EOLhyphen"/>row, for those most crying Sins, which now we find, by too sad experience, to have a more immediate influence upon the De<g ref="char:EOLhyphen"/>struction of a Kingdom; some of which are Idolatry &amp; Bloodshed.</p>
+            <p>That of Idolatry, as it was the sin of our Ancestors, so it is the spreading sin of these latter times, while by a generall con<g ref="char:EOLhyphen"/>nivence, and almost Toleration, it hath beene severall wayes Fomented and encouraged: The grievous Effects whereof this Kingdome of <hi>England</hi> now begins to feele, from multitudes of Armed Papists and their Abettors, and the Kingdome of
+<pb n="4" facs="tcp:196526:3"/>
+               <hi>Ireland</hi> farre more heavily hath felt, being brought almost to utter Ruine, by the Intestine Warres of Romish Idolaters.</p>
+            <p>And for that other crying and cruell sin of Bloodshed, that calls aloud for Vengeance (besides many Murders not expia<g ref="char:EOLhyphen"/>ted, and the blood-guilty pardoned) did it not goe hand in hand with that abhominable Idoll of the Masse, in the dayes of Queene <hi>Mary</hi> and some of her Predecessors, when many hun<g ref="char:EOLhyphen"/>dreds of the deare Martyrs and Saints of God lost their pre<g ref="char:EOLhyphen"/>cious Lives in Flames and Prisons? And though several Acts by which that Innocent blood was shed, have beene repealed by Parliament: yet to this very day, was never ordained such a solemne Publique and Nationall acknowledgement of this sin, as might appease the wrath of that Iealous God, against whom, and against whose People, with, so high a hand it was committed.</p>
+            <p>Now that all the sin and Misery of this Polluted and Af<g ref="char:EOLhyphen"/>flicted Nation may be bitterly sorrowed for, with such griefe of heart, and preparednesse for a thorow Reformation, as God may be pleased graciously to accept: it is required and Ordai<g ref="char:EOLhyphen"/>ned by the Lords and Commons in Parliament, That every Minster and Preacher of Gods Word, in the Kingdome of <hi>England</hi> and Dominion of <hi>Wales,</hi> in their severall Auditories and Congregations, especially upon the Fast dayes, shall most earnestly perswade and Inculcate the constant practice of this publike acknowledgement and deep humiliation, for these, &amp; all our Nationall and crying sins, and likewise the necessity of a personall and Nationall Reformation, and shall publish this Ordinance concerning the same, that at length we may obtaine a firme and happy Peace both with God Man, that glory may dwell in our Land, and the prosperity of the Gospel with all the priviledges accompanying it, may Crowne this Nation unto all succeeding Ages.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Ordered by the Lords and Commons in Parliament, that this Ordinance be forthwith Printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Brown Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="ordinance">
+            <pb n="5" facs="tcp:196526:3"/>
+            <head>An Ordinance of the Lords and Commons in Parliament Assem<g ref="char:EOLhyphen"/>bled, for the better observation of the Monethly FAST.</head>
+            <p>VVHereas the Kings most Excellent Majesty, upon the request of the Lords and Commons in this present Parliament Assembled, and by and with their advice and consent, considering the lamentable and distressed condition of his good Subjects in the Kingdome of <hi>Ireland;</hi> (that there might be a generall humiliation of all the estates of this Kingdome before Almighty God in Fasting and Prayer) was graciously pleased to command the keeping of a Monethly Fast; and to the end that all persons might the better take notice thereof (and to leave such with out excuse, as should not duly keepe and observe the same) did after wad, by his Proclamation of the 8. of <hi>January</hi> 1641. appoint that the same should bee generally, publikely, and solemnly holden, and kept, as well by abstinence from food, as by publike prayers, preaching, and hearing of the word of God, and other Religious and holy duties, in all Cathedrals, Collegiate, and parish Churches, and Chappels within the Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> (without any exception) on the last Wednesday of every Moneth, to continue during the troubles in the said Kingdome of <hi>Ireland:</hi> All which His Majesty did straitly charge and com<g ref="char:EOLhyphen"/>mand, should be reverently and devoutly performed by all his Subjects, as they desire the blessing of Almighty God, and would avoyd his heavie indignation against this land and people; and upon paine of such punish<g ref="char:EOLhyphen"/>ments as may justly be inflicted upon all such as shall contemn or neglect so religious a worke and dutie.</p>
+            <p>And whereas the Lords and Commons in both Houses of Parliament▪ have received divers informations from severall parts of this Kingdom and Dominion of <hi>Wales,</hi> of the great neglect of the due observation and keeping of the said Fast upon the daies appointed, and of the profanations of the same by many irreligious, ill-affected, loose, and scandalous persons, as well of the Clergie as others, who are so farre from afflicting their soales and loosing the bands of wickednesse, as that they provoke the wrath of Almighty God, and make so pious a meanes to procure his blessings, the occasion of greater Iudgements.</p>
+            <p>For the prevention whereof for the time to come, the Lords and Com<g ref="char:EOLhyphen"/>mons doe Order, Declare, Ordaine, that in all and every the Cathedrals, Collegiate and Parish Churches, and Chappels within the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> (without any exception) upon every
+<pb n="6" facs="tcp:196526:4"/> Lords day, next and immediately before any the daies appointed for the said publike Fast, the Parson, Vicar, Curate, or Minister, that upon that day shall Officate, or exercise in any of the said Cathedrals, Collegiate, Parish Churches, or Chappels, shall give publike notice in every of the said Cathedrals, Collegiate, Parish Churches or Chappels, respectively, of the Fast day next ensuing immediately after Sermon, or prayer ended in the forenoone before the Congregation be dismissed, earnestly exhor<g ref="char:EOLhyphen"/>ting and perswading all the people to the solemne due keeping and religi<g ref="char:EOLhyphen"/>ous observation of the whole day appointed for the said Fast, and that they would repaire to some Church or Chappell, there diligently and reverent<g ref="char:EOLhyphen"/>ly to attend all sucb holy duties as shall be used in the observance of the same; that they forbeare to use all manner of sports and pastimes whatso<g ref="char:EOLhyphen"/>ever▪ and their ordinary Trades and Callings upon the said day, as well Carriers, Waggoners, Carters, Waynmen, Drovers, Butchers, Hucksters, Shop-keepers, Labourers; or any others using any Art, Trade, Mystery, or manuall Occupation whatsoever, and that all Vint<g ref="char:EOLhyphen"/>ners, Taverners, Alehouse-keepers, and Keepers of Victualling-houses, doe forbeare to keep open their doores, Bulks, or Shops, or to sell or utter (except in cases of extreme necessity) any Wine, Beare, Ale, or Victuall, till the publike exercises and religious duties of that day in the respective Cathedrals, Collegiate Parish Churches and Chappels be past and over.</p>
+            <p>And lastly, all and every the Iustices of the Peace, Majors, Bayliffs, Constables, Church-Wardens, and other Officers inhabiting or residing within the limits or precincts of any such Cathedrall, Collegiate, Parish Church, or Chappell, are hereby required to take speciall notice as well of such Parson, Vicar, Curate, or other Minister that ought to officiate in any of the said Cathedrals, Collegiate, and Parish Churches, or Chap<g ref="char:EOLhyphen"/>pels; upon any such day appointed for the said Fast, that shall either re<g ref="char:EOLhyphen"/>fuse or neglect to do the same, or not do or cause the same to be done in that religious and solemn manner as it ought to be, or that shall refuse to give notice of the Fast day at the time and in manner as aforesaid, and forth<g ref="char:EOLhyphen"/>with to return their names, and the names of all such (from time to time (as shall wilfully offend herein, in contempt of the Lawes, His Ma<g ref="char:EOLhyphen"/>jesty, and both Houses of Parliament, unto some one or more of the Knights, Citizens, or Burgesses that serve for the County where such offence is or shalbe committed, that some speedy course may be taken for the severe punishing of such as shall offend herein, according to the Lawes.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Mercurii 24 August▪ 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>It is this day Ordered, that this Ordinance for the better observing of the Fast be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen. Elsynge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="proclamation">
+            <pb n="7" facs="tcp:196526:4"/>
+            <head>BY THE KING.</head>
+            <head type="sub">A Proclamation for a generall Fast through<g ref="char:EOLhyphen"/>out this Realme of ENGLAND.</head>
+            <p>HIs Majestie taking into his Princely and Pious Consideration, the lamentable and distressed estate of his good Subjects in his Majesties Kingdome of <hi>Ireland,</hi> and conceiving it to be a just and great occasion calling upon him, and his people of this his Kingdome of <hi>England,</hi> for a generall Humiliation of all estates of this Kingdome before Almightie God, in Prayer and Fasting, for drawing downe his mercy and blessing upon that Kingdome: His Majestie doth therefore by this his Proclamation straitly charge and com<g ref="char:EOLhyphen"/>mand, That a generall, publike, and solemne Fast be kept, and holden, as well by abstinence from Food, as by publike Prayers, Preaching, and Hea<g ref="char:EOLhyphen"/>ring of the Word of God, and other sacred Duties, in all Cathedrall, Collegiate, and Parish Churches and Chappels within this his Majesties King<g ref="char:EOLhyphen"/>dome of <hi>England</hi> and Dominion of <hi>Wales</hi> (his Ma<g ref="char:EOLhyphen"/>jesties Cities of <hi>London</hi> and <hi>Westminster</hi> onely ex<g ref="char:EOLhyphen"/>cepted, where it hath beene alreadie observed) on
+<pb n="8" facs="tcp:196526:5"/> the twentieth day of this present Moneth of <hi>Ia<g ref="char:EOLhyphen"/>nuary.</hi>
+            </p>
+            <p>And his Majestie doth further by this his Pro<g ref="char:EOLhyphen"/>clamation straitly charge and command, That a generall, publike, and solemne Fast be kept, and holden, as well by abstinence from Food, as by publike Prayers, Preaching, and Hearing of the Word of God, and other sacred Duties, in all Ca<g ref="char:EOLhyphen"/>thedrall, Collegiate, and Parish Churches and Chappels within this Kingdome of <hi>England,</hi> and Dominion of <hi>Wales</hi> (without any exception) on the last Wednesday of the Moneth of <hi>February</hi> next following the date hereof, and from thenceforth to continue on the last Wednesday of every Moneth, during the troubles in the said Kingdome of <hi>Ire<g ref="char:EOLhyphen"/>land.</hi> All which his Majestie doth expressely charge and command shall be reverently and devoutly per<g ref="char:EOLhyphen"/>formed by all his loving Subjects, as they tender the favour of Almightie God, and would avoid his just Indignation against this Land, and upon paine of such Punishments as his Majestie can justly inflict upon all such as shall contemne or neglect so Religious a Worke.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Court at White-Hall </hi>
+                  <date>
+                     <hi>the eighth day of January, in the seventeenth veere of his Majesties Reigne of Great Brit<g ref="char:EOLhyphen"/>taine, France, and Ireland.</hi>
+                  </date>
+               </dateline> God save the King.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
